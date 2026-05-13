@@ -70,8 +70,3 @@ pnpm dev
 
 Deployed using Vercel.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
