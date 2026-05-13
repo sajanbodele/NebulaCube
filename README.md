@@ -6,8 +6,6 @@ The project is inspired by humanity’s curiosity about the unknown universe and
 
 Built with modern web technologies, NebulaCube combines futuristic design, motion, and interactive visuals to create a cinematic cosmic experience directly in the browser.
 
----
-
 ## ✨ Features
 
 - 🌌 Continuously rotating 3D cube
@@ -16,8 +14,6 @@ Built with modern web technologies, NebulaCube combines futuristic design, motio
 - ⚡ Smooth animations and transitions
 - 📱 Responsive design for multiple devices
 - 🚀 Interactive space-inspired experience
-
----
 
 ## 🛠 Tech Stack
 
@@ -28,7 +24,6 @@ Built with modern web technologies, NebulaCube combines futuristic design, motio
 - Framer Motion
 - Vercel
 
----
 
 ## 🎯 Project Vision
 
@@ -36,7 +31,6 @@ NebulaCube explores the idea of transforming deep-space imagination into an inte
 
 The project aims to make users feel as if they are observing mysterious galaxies floating inside a futuristic cosmic structure — representing regions of the universe beyond current human exploration.
 
----
 
 ## ⚙️ Installation
 
@@ -64,7 +58,6 @@ Run the development server:
 pnpm dev
 ```
 
----
 
 ## 🌍 Deployment
 
