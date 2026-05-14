@@ -58,6 +58,10 @@ Run the development server:
 pnpm dev
 ```
 
+## 📸 Preview
+
+![NebulaCube Preview](./public/preview.webp)
+
 
 ## 🌍 Deployment
 
